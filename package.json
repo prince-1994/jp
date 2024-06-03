@@ -1,0 +1,13 @@
+{
+  "name": "jp",
+  "type": "module",
+  "devDependencies": {
+    "@types/bun": "latest"
+  },
+  "peerDependencies": {
+    "typescript": "^5.0.0"
+  },
+  "scripts": {
+    "dev": "bun run ./src/index.ts"
+  }
+}
